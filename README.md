@@ -1,7 +1,7 @@
 # Portfolio
 
 ## About Me
-I am a economics and political science student at Ashoka University, Delhi NCT. I am really intrigued by economic development thoeries and try to make sense out of them by looking at various case-studies. I'm also curious about south asian and american contemporary politics and try know more about the political history of those regions. <br />
+I am an economics and political science student at Ashoka University, Delhi NCT. I am really intrigued by economic development thoeries and try to make sense out of them by looking at various case-studies. I'm also curious about south asian and american contemporary politics. A common thread that runs through my research is the use of data. I try to integrate statistics and data visualization into my work to give it an analytical bent. <br />
 Here is my [CV](https://drive.google.com/file/d/17Q0Icn2PGEAazRZTe9L0rWzIRwTcvM0f/view?usp=sharing) <br />
 
 My interests are :

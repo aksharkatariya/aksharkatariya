@@ -13,8 +13,9 @@ My interests are :
 
 ## My Data Analysis Portfolio
 ### 1. Electoral Data Analysis
-I use 2019 Indian election data to analyse 4 unique relationships using various statistical tests of association  <br />
+I use 2019 Indian election data to analyse 4 unique relationships using various statistical tests of association.  <br />
 I have [attached](https://drive.google.com/drive/folders/1AeHu7uYzKqDKcEwwY3LiGKzd_68rxpWP?usp=sharing) the code and the PDF.
+[This](https://infogram.com/2019-electoral-data-analysis-1h984wovv7r5z6p?live) is the link to an infographic of the same data I made using infogram.
 ### 2. Boosting GDP with Electricity
 In the summer of 2020, I was interning with the Govt. of Arunachal Pradesh (Office of MLA and Ex. Union Minister Ninong Ering). I found a very high correlation with GDP and Electricity production in that State. I delve further into this associaltion and try to establish a causal relationship between GDP and Electrcity production and find ways to capitalize on it. Finally, my project was shortlisted and presented to the Power Minister and various other authorities in the state.
 
@@ -27,7 +28,7 @@ I have [attached](https://drive.google.com/drive/folders/1Y57WOsFXxB-gBIN4Q57eYH
 
 ## My Writing Portfolio
 ### 1. Capitalism and Pandemics- Beyond Correlation (August 2020)
- I stood 3rd in the article writing competition held by Miranda House, DU in August 2020. I wrote on the relationship between capitalism and pandemics. Here is the [link](https://drive.google.com/file/d/1xnaXI8vI8amO-SAfGuAcr_lfrW4IzqTi/view?usp=sharing)
+ I stood 3rd in the article writing competition held by Miranda House, DU in August 2020. I wrote on the relationship between capitalism and pandemics. Here is the [link](https://drive.google.com/file/d/16pwxRJSMT-INWNAZYoVyGSaZUi3_78Ti/view?usp=sharing)
 ### 2. The fall of Airlines; not literally (November 2019)
 [My Article](https://ecotalker.wordpress.com/2020/04/19/the-fall-of-airlines-not-literally/) on the airline industry's decline was published on the EcoTalker Blog of Arthashastra Journal. 
 

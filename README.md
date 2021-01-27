@@ -1,4 +1,4 @@
-# Data_Portfolio
+# Portfolio
 
 ## About Me
 I am a economics and political science student at Ashoka University, Delhi NCT. I am really intrigued by economic development thoeries and try to make sense out of them by looking at various case-studies. I'm also curious about south asian and american contemporary politics and try know more about the political history of those regions. <br />
@@ -9,15 +9,7 @@ My interests are
 - Comparative Politics
 - Economic Modelling
 
-
-
-
-Here is my [LinkedIn][f1] <br />
-Here is my [twitter][f2]   <br />
-This is my [CV](https://drive.google.com/file/d/17Q0Icn2PGEAazRZTe9L0rWzIRwTcvM0f/view?usp=sharing) <br />
-![300](https://www.youtube.com/watch?v=-vsqB16p-Jo) Video Presentation of a project that I made for Govt. of Arunachal Pradesh.  <br />
-
-## My Data Portfolio
+## My Data Analysis Portfolio
 ### 1. Electoral Data Analysis
 I use 2019 Indian election data to analyse 4 unique relationships using various statistical tests of association  <br />
 I have [attached](https://drive.google.com/drive/folders/1AeHu7uYzKqDKcEwwY3LiGKzd_68rxpWP?usp=sharing) the code and the PDF.
@@ -32,8 +24,10 @@ I created a plot which tracks the HDI trajectories of a nation from its first re
 I have [attached](https://drive.google.com/drive/folders/1Y57WOsFXxB-gBIN4Q57eYH5Q-HVHnvII?usp=sharing) the code and a few sample plots of various countries.
 
 ## My Writing Portfolio
-### 1. I stood 3rd in the article writing competition held by Miranda House, DU in August 2020. I wrote on the relationship between capitalism and pandemics.
-### 2. [My Article](https://ecotalker.wordpress.com/2020/04/19/the-fall-of-airlines-not-literally/) on the airline industry's decline was published on the EcoTalker Blog of Arthashastra Journal. 
+### 1. Capitalism and Pandemics- Beyond Correlation (August 2020)
+ I stood 3rd in the article writing competition held by Miranda House, DU in August 2020. I wrote on the relationship between capitalism and pandemics.
+### 2. The fall of Airlines; not literally (November 2019)
+[My Article](https://ecotalker.wordpress.com/2020/04/19/the-fall-of-airlines-not-literally/) on the airline industry's decline was published on the EcoTalker Blog of Arthashastra Journal. 
 
 
 
@@ -43,7 +37,7 @@ I have [attached](https://drive.google.com/drive/folders/1Y57WOsFXxB-gBIN4Q57eYH
 
 Here is my [LinkedIn][f1] <br />
 Here is my [Twitter][f2]   <br />
-Here is my [Medium] [f3] <br />
+Here is my [Medium][f3] <br />
 This is my [CV](https://drive.google.com/file/d/17Q0Icn2PGEAazRZTe9L0rWzIRwTcvM0f/view?usp=sharing) <br />
 
 

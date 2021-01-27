@@ -2,6 +2,7 @@
 
 ## About Me
 I am an economics and political science student at Ashoka University, Delhi NCT. I am really intrigued by economic development thoeries and try to make sense out of them by looking at various case-studies. I'm also curious about south asian and american contemporary politics. A common thread that runs through my research is the use of data. I try to integrate statistics and data visualization into my work to give it an analytical bent. <br />
+<br />
 Here is my [CV](https://drive.google.com/file/d/17Q0Icn2PGEAazRZTe9L0rWzIRwTcvM0f/view?usp=sharing) <br />
 
 My interests are :
@@ -36,7 +37,7 @@ I have [attached](https://drive.google.com/drive/folders/1Y57WOsFXxB-gBIN4Q57eYH
 
 
 
-## Contact Links: Feel free to reach me out on any of these.
+## Contact Links: Feel free to reach out to me on any of these platforms.
 
 Here is my [LinkedIn][f1] <br />
 Here is my [Twitter][f2]   <br />

@@ -31,13 +31,13 @@ I have [attached](https://drive.google.com/drive/folders/1Y57WOsFXxB-gBIN4Q57eYH
 ## Writing Portfolio
 
 ### 1. Effect of COVID-19 on the labor market decision of a recent graduaute (January 2021)
-I analyse the impact of the pandemic on the decision-making of a recent graduate using a life-cycle risk microeconomic model. Analysis is done using comparative statics.
+In this [paper](https://drive.google.com/file/d/1lB2ZnQFdgoK1dBtPpF9vJrXyjxVt16RO/view?usp=sharing), I analyse the impact of the pandemic on the decision-making of a recent graduate using a life-cycle risk microeconomic model. Analysis is done using comparative statics.
 ### 2. Comparative development analysis of Norway and Finland (December 2019)
-This paper looks at the development trajectories of the two nations -- which were once similar in every aspect -- and answers the puzzle of their divergent growth stories. I also delve into how Norway escaped from the 'Resource Curse' by not developing dependencies on natural resources.
+This [paper](https://drive.google.com/file/d/1sXW_lF0GHITrc6XIsThP4YG9kgQdiWhz/view?usp=sharing) looks at the development trajectories of the two nations -- which were once similar in every aspect -- and answers the puzzle of their divergent growth stories. I also delve into how Norway escaped from the 'Resource Curse' by not developing dependencies on natural resources.
 ### 3. Capitalism and Pandemics- Beyond Correlation (August 2020)
  I stood 3rd in the article writing competition held by Miranda House, DU in August 2020. I wrote on the relationship between capitalism and pandemics. Here is the [link](https://drive.google.com/file/d/16pwxRJSMT-INWNAZYoVyGSaZUi3_78Ti/view?usp=sharing) to the article.
 ### 4. The fall of Airlines; not literally (November 2019)
-[My Article](https://ecotalker.wordpress.com/2020/04/19/the-fall-of-airlines-not-literally/) on the airline industry's decline was published on the EcoTalker Blog of Arthashastra Journal. 
+My [Article](https://ecotalker.wordpress.com/2020/04/19/the-fall-of-airlines-not-literally/) on the airline industry's decline was published on the EcoTalker Blog of Arthashastra Journal. 
 
 
 
@@ -49,7 +49,7 @@ Feel free to reach out to me on any of these platforms.
 [LinkedIn][f1] <br />
 [Twitter][f2]   <br />
 [Medium][f3] <br />
-akshar.k11@gmail.com
+[E-mail](mailto:akshar.k11@gmail.com)
 
 
 

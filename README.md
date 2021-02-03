@@ -29,9 +29,14 @@ I created a function which tracks the HDI trajectories of a nation from its firs
 I have [attached](https://drive.google.com/drive/folders/1Y57WOsFXxB-gBIN4Q57eYH5Q-HVHnvII?usp=sharing) the code(R).
 
 ## Writing Portfolio
-### 1. Capitalism and Pandemics- Beyond Correlation (August 2020)
+
+### 1. Effect of COVID-19 on the labor market decision of a recent graduaute (January 2021)
+I analyse the impact of the pandemic on the decision-making of a recent graduate using a life-cycle risk microeconomic model. Analysis is done using comparative statics.
+### 2. Comparative development analysis of Norway and Finland (December 2019)
+This paper looks at the development trajectories of the two nations -- which were once similar in every aspect -- and answers the puzzle of their divergent growth stories. I also delve into how Norway escaped from the 'Resource Curse' by not developing dependencies on natural resources.
+### 3. Capitalism and Pandemics- Beyond Correlation (August 2020)
  I stood 3rd in the article writing competition held by Miranda House, DU in August 2020. I wrote on the relationship between capitalism and pandemics. Here is the [link](https://drive.google.com/file/d/16pwxRJSMT-INWNAZYoVyGSaZUi3_78Ti/view?usp=sharing) to the article.
-### 2. The fall of Airlines; not literally (November 2019)
+### 4. The fall of Airlines; not literally (November 2019)
 [My Article](https://ecotalker.wordpress.com/2020/04/19/the-fall-of-airlines-not-literally/) on the airline industry's decline was published on the EcoTalker Blog of Arthashastra Journal. 
 
 

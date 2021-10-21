@@ -14,16 +14,18 @@ My interests are :
 - Behavioral Sciences
 
 ## Data Analysis Portfolio
-### 1. Electoral Data Analysis
+### 1. NLP on Partition Books
+I along with Abhilasha Sawlani and Jahnavi Selvakumar analyse the books written on The Parition to look for evidence of Syncretism. I have [attached](https://drive.google.com/drive/folders/1wpFOUdP8WqYohwoxgTb9IDDHoVzy2em1?usp=sharing) the document and the R markdown code along with it. 
+### 2. Electoral Data Analysis
 I use 2019 Indian election data to analyse 4 unique relationships using various statistical tests of association.  <br />
 I have [attached](https://drive.google.com/drive/folders/1AeHu7uYzKqDKcEwwY3LiGKzd_68rxpWP?usp=sharing) the code(R) and the PDF.
 [This](https://infogram.com/2019-electoral-data-analysis-1h984wovv7r5z6p?live) is the link to an infographic of the same data I made using infogram.
-### 2. Boosting GDP with Electricity
+### 3. Boosting GDP with Electricity
 In the summer of 2020, I was interning with the Govt. of Arunachal Pradesh (Office of MLA and Ex. Union Minister Ninong Ering). I found a very high correlation with GDP and Electricity production in that State. I delve further into this associaltion and try to establish a causal relationship between GDP and Electrcity production and find ways to capitalize on it.
 
 I have [attached](https://drive.google.com/drive/folders/1lDzN8FNAKdYPwyI_Zvb9jToX0kC63E7G?usp=sharing) the link to the data analysis report, and my pitch to the MLA. Here is the [link](https://www.youtube.com/watch?v=-vsqB16p-Jo) to the video presentation.
 
-### 3. HDI Dashboard
+### 4. HDI Dashboard
 I created a function which tracks the HDI trajectories of a nation from its first record till present in the form of a line-plot. The data used is sourced from ourworldindata.org
 
 I have [attached](https://drive.google.com/drive/folders/1Y57WOsFXxB-gBIN4Q57eYH5Q-HVHnvII?usp=sharing) the code(R).

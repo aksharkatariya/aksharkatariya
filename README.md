@@ -1,9 +1,9 @@
 # Portfolio
 
 ## About Me
-I am a graduate student at the University of Chicago learning Public Policy and Economics. My coursework in data science at the university fuels my passion, evident in my newsletter, Factorial, where 300+ subscribers delve into multidisciplinary insights (aksharkatariya.substack.com). I yearn to merge this enthusiasm into roles fostering social impact through data. 
+I am a graduate student at the University of Chicago learning Public Policy and Economics. My coursework in data science & public policy at the university fuels my passion. In my free time, I write a newsletter called Factorial where 300+ subscribers delve into my data research & musings (aksharkatariya.substack.com). I yearn to merge this enthusiasm into roles which involve social impact through data. 
 
-I've also authored an essay which was published as a foreword in Member of Parliament, Mr. Derek O'Brien's new book, emphasizing my dedication to impactful policy. 
+I've also authored an essay which was published as a foreword in Member of Indian Parliament, Mr. Derek O'Brien's new book, emphasizing my dedication to impactful policy. 
 
 Let’s connect over coffee or chat—I’m eager to explore opportunities, exchange ideas, and contribute to the transformative realms of data-driven solutions and societal change. Reach out to discuss collaboration possibilities in the intersection of data science and social impact! <br />
 <br />
